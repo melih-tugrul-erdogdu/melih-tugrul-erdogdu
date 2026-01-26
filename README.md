@@ -47,7 +47,7 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * **Email:** mlhtugrul07@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
 
-⭐ *Thanks for visiting my profile!*
+⭐ **Thanks for visiting my profile!** 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 👋 Merhaba, Ben Melih Tuğrul Erdoğdu; (TR)
 
