@@ -1,44 +1,95 @@
-# 👋 Merhaba, Ben Melih Tuğrul Erdoğdu;
+# 👋 Hello, I'm Melih Tuğrul Erdoğdu (ENG)
 
-## 🎓 Hakkımda
+### 🎓 About Me
+
+I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am passionate about software development, algorithm design, and artificial intelligence.
+
+### 💡 Technologies & Skills
+
+* **Programming Languages:** C, Python, Java
+* **Tools:** VS Code, Git, GitHub
+* **Other:** Basic Electronics (Arduino IDE)
+
+### 🚀 Projects
+
+**1. 🌱 Automatic Plant Watering System**
+* Arduino-based automated irrigation system.
+* Measures soil moisture using sensors.
+* Automatically waters the plant when moisture drops below a set threshold.
+* https://youtube.com/shorts/vhjwoos76hg
+
+**2. 🐍 Snake Game (C)**
+* Console-based classic Snake game.
+* Developed using C programming language.
+* Playable via keyboard arrow keys.
+
+**3. 🔍 Modularity Detection on Zachary Karate Club (C)**
+* Modularity detection algorithm for social network analysis.
+* Implemented in C.
+* Calculates and outputs the optimal community structures.
+
+### 📚 Currently Learning
+
+* Data Structures and Algorithms
+* Object-Oriented Programming (OOP)
+* Web Development Fundamentals
+* Data Analysis
+
+### 🎯 Goals
+
+* Learning C++
+* Building web development projects
+* Contributing actively on GitHub
+* Participating in open-source projects
+
+### 📫 Contact
+
+* **Email:** mlhtugrul07@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
+
+⭐ *Thanks for visiting my profile!*
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 👋 Merhaba, Ben Melih Tuğrul Erdoğdu; (TR)
+
+### 🎓 Hakkımda
 Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, algoritma tasarımı ve yapay zekaya ilgi duyuyorum.
 
-## 💡 Bildiğim Teknolojiler
+### 💡 Bildiğim Teknolojiler
 - **Programlama Dilleri:** C, Python, Java
 - **Araçlar:** VS Code, Git, GitHub
 - **Diğer:** Temel elektronik (Arduino IDE)
 
-## 🚀 Yaptığım Projeler
+### 🚀 Yaptığım Projeler
 
-### 1. 🌱 Otomatik Bitki Sulama Sistemi
+1. 🌱 Otomatik Bitki Sulama Sistemi
 - Arduino tabanlı otomatik sulama sistemi
 - Nem sensörü ile toprak nemini ölçme
 - Belirlenen seviyenin altına düştüğünde otomatik sulama
 - https://youtube.com/shorts/vhjwoos76hg
 
-### 2. 🐍 Yılan Oyunu (C)
+2. 🐍 Yılan Oyunu (C)
 - Konsol üzerinde çalışan yılan oyunu
 - C programlama dili ile geliştirildi
 - Klavye üzerinde yön tuşları ile oynanabilir  
 
-### 3. 🔍 Zachary Karate Club'da Modularity Detection (C)
+3. 🔍 Zachary Karate Club'da Modularity Detection (C)
 - Sosyal ağ analizi için modularity detection algoritması
 - C dilinde implementasyon
 - Olası en iyi topluluk yapılarını ekrana bastırma
 
-## 📚 Şu Anda Öğrendiklerim
+### 📚 Şu Anda Öğrendiklerim
 - Veri yapıları ve algoritmalar
 - Nesne yönelimli programlama (OOP)
 - Web geliştirme temelleri 
 - Veri analizi
 
-## 🎯 Hedeflerim
+### 🎯 Hedeflerim
 - C++ öğrenmek
 - Web geliştirme projeleri yapmak
 - GitHub'da aktif katkı sağlamak
 - Açık kaynak projelere katılmak
 
-## 📫 İletişim
+### 📫 İletişim
 - **E-posta:** mlhtugrul07@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
 
