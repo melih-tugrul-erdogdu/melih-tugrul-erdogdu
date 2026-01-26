@@ -12,18 +12,18 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 
 ### 🚀 Projects
 
-**1. 🌱 [Automatic Plant Watering System](https://github.com/Melih0734/Arduino-Automatic-Plant-Watering-System)**
+**1. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
 * Arduino-based automated irrigation system.
 * Measures soil moisture using sensors.
 * Automatically waters the plant when moisture drops below a set threshold.
 * [Watch Demo](https://youtube.com/shorts/vhjwoos76hg)
 
-**2. 🐍 [Snake Game (C)](https://github.com/Melih0734/Snake-Game-C)**
+**2. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
 * Console-based classic Snake game.
 * Developed using C programming language.
 * Playable via keyboard arrow keys.
 
-**3. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/Melih0734/Community-Detection-Algorithms-C)**
+**3. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
 * Modularity detection algorithm for social network analysis.
 * Implemented in C.
 * Calculates and outputs the optimal community structures.
@@ -61,18 +61,18 @@ Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyi
 
 ### 🚀 Yaptığım Projeler
 
-**1. 🌱 [Automatic Plant Watering System](https://github.com/Melih0734/Arduino-Automatic-Plant-Watering-System)**
+**1. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
 - Arduino tabanlı otomatik sulama sistemi
 - Nem sensörü ile toprak nemini ölçme
 - Belirlenen seviyenin altına düştüğünde otomatik sulama
 - https://youtube.com/shorts/vhjwoos76hg
 
-**2. 🐍 [Snake Game (C)](https://github.com/Melih0734/Snake-Game-C)**
+**2. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
 - Konsol üzerinde çalışan yılan oyunu
 - C programlama dili ile geliştirildi
 - Klavye üzerinde yön tuşları ile oynanabilir  
 
-**3. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/Melih0734/Community-Detection-Algorithms-C)**
+**3. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
 - Sosyal ağ analizi için modularity detection algoritması
 - C dilinde implementasyon
 - Olası en iyi topluluk yapılarını ekrana bastırma
