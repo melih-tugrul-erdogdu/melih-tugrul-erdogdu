@@ -28,6 +28,11 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * Implemented in C.
 * Calculates and outputs the optimal community structures.
 
+**4. 📊 [Stack Overflow Survey Data Analysis (WIP)](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
+* Statistical data analysis on the 2024 Stack Overflow Developer Survey.
+* Data preprocessing, EDA, and statistical visualizations (Boxplot, Bar, Hist, Pie).
+* Academic reporting using LaTeX.
+
 ### 📚 Currently Learning
 
 * Data Structures and Algorithms
@@ -76,6 +81,11 @@ Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyi
 - Sosyal ağ analizi için modularity detection algoritması
 - C dilinde implementasyon
 - Olası en iyi topluluk yapılarını ekrana bastırma
+
+**4. 📊 [Stack Overflow Anketi Veri Analizi (WIP)](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
+* 2024 Stack Overflow Geliştirici Anketi üzerinde istatistiksel veri analizi.
+* Veri ön işleme, Keşifçi Veri Analizi (EDA) ve istatistiksel görselleştirmeler (Boxplot, Bar, Hist, Pie).
+* LaTeX kullanılarak hazırlanan akademik raporlama.
 
 ### 📚 Şu Anda Öğrendiklerim
 - Veri yapıları ve algoritmalar
