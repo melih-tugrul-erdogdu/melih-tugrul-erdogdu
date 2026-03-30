@@ -1,17 +1,14 @@
 # 👋 Hello, I'm Melih Tuğrul Erdoğdu (ENG)
 
 ### 🎓 About Me
-
 I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am passionate about software development, algorithm design, and artificial intelligence.
 
 ### 💡 Technologies & Skills
-
 * **Programming Languages:** C, Python, Java
 * **Tools:** VS Code, Git, GitHub
 * **Other:** Basic Electronics (Arduino IDE)
 
 ### 🚀 Projects
-
 **1. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
 * Arduino-based automated irrigation system.
 * Measures soil moisture using sensors.
@@ -34,21 +31,17 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * Academic reporting using LaTeX.
 
 ### 📚 Currently Learning
-
-* Data Structures and Algorithms
 * Object-Oriented Programming (OOP)
 * Web Development Fundamentals
 * Data Analysis
 
 ### 🎯 Goals
-
 * Learning C++
 * Building web development projects
 * Contributing actively on GitHub
 * Participating in open-source projects
 
 ### 📫 Contact
-
 * **Email:** mlhtugrul07@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
 
@@ -65,7 +58,6 @@ Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyi
 - **Diğer:** Temel elektronik (Arduino IDE)
 
 ### 🚀 Yaptığım Projeler
-
 **1. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
 - Arduino tabanlı otomatik sulama sistemi
 - Nem sensörü ile toprak nemini ölçme
@@ -88,7 +80,6 @@ Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyi
 * LaTeX kullanılarak hazırlanan akademik raporlama.
 
 ### 📚 Şu Anda Öğrendiklerim
-- Veri yapıları ve algoritmalar
 - Nesne yönelimli programlama (OOP)
 - Web geliştirme temelleri 
 - Veri analizi
