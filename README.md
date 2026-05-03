@@ -1,39 +1,41 @@
 # 👋 Hello, I'm Melih Tuğrul Erdoğdu (ENG)
 
 ### 🎓 About Me
-I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am passionate about software development, algorithm design, and artificial intelligence.
+I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am passionate about software development, algorithm design, and data-driven problem solving.
 
 ### 💡 Technologies & Skills
 * **Programming Languages:** C, Python, Java
-* **Tools:** VS Code, Git, GitHub
+* **Data Science & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
+* **Tools:** VS Code, Git, GitHub, LaTeX, IntelliJ
 * **Other:** Basic Electronics (Arduino IDE)
 
 ### 🚀 Projects
-**1. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
+
+**1. 📊 [Stack Overflow Survey Data Analysis](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
+* Comprehensive descriptive and inferential statistical analysis on the 2024 Stack Overflow Developer Survey (N=20,754).
+* Applied Hypothesis Testing (T-Test, ANOVA) and Multiple Linear Regression (OLS) to demystify the "AI Salary Premium" paradox.
+* Authored a two-part academic paper in IEEE format using LaTeX.
+
+**2. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
+* Modularity detection algorithm for social network analysis.
+* Implemented in C.
+* Calculates and outputs the optimal community structures.
+
+**3. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
 * Arduino-based automated irrigation system.
 * Measures soil moisture using sensors.
 * Automatically waters the plant when moisture drops below a set threshold.
 * [Watch Demo](https://youtube.com/shorts/vhjwoos76hg)
 
-**2. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
+**4. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
 * Console-based classic Snake game.
 * Developed using C programming language.
 * Playable via keyboard arrow keys.
 
-**3. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
-* Modularity detection algorithm for social network analysis.
-* Implemented in C.
-* Calculates and outputs the optimal community structures.
-
-**4. 📊 [Stack Overflow Survey Data Analysis (WIP)](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
-* Statistical data analysis on the 2024 Stack Overflow Developer Survey.
-* Data preprocessing, EDA, and statistical visualizations (Boxplot, Bar, Hist, Pie).
-* Academic reporting using LaTeX.
-
 ### 📚 Currently Learning
 * Object-Oriented Programming (OOP)
 * Web Development Fundamentals
-* Data Analysis
+* Inferential Statistics & Data Science
 
 ### 🎯 Goals
 * Learning C++
@@ -45,44 +47,46 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * **Email:** mlhtugrul07@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
 
-⭐ **Thanks for visiting my profile!** 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⭐ **Thanks for visiting my profile!** ---
+
 # 👋 Merhaba, Ben Melih Tuğrul Erdoğdu; (TR)
 
 ### 🎓 Hakkımda
-Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, algoritma tasarımı ve yapay zekaya ilgi duyuyorum.
+Galatasaray Üniversitesinde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, algoritma tasarımı ve veriye dayalı problem çözme konularına yoğun ilgi duyuyorum.
 
 ### 💡 Bildiğim Teknolojiler
 - **Programlama Dilleri:** C, Python, Java
-- **Araçlar:** VS Code, Git, GitHub
+- **Veri Bilimi ve Kütüphaneler:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
+- **Araçlar:** VS Code, Git, GitHub, LaTeX, IntelliJ
 - **Diğer:** Temel elektronik (Arduino IDE)
 
 ### 🚀 Yaptığım Projeler
-**1. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
-- Arduino tabanlı otomatik sulama sistemi
-- Nem sensörü ile toprak nemini ölçme
-- Belirlenen seviyenin altına düştüğünde otomatik sulama
-- https://youtube.com/shorts/vhjwoos76hg
 
-**2. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
-- Konsol üzerinde çalışan yılan oyunu
-- C programlama dili ile geliştirildi
-- Klavye üzerinde yön tuşları ile oynanabilir  
+**1. 📊 [Stack Overflow Anketi Veri Analizi](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
+* 2024 Stack Overflow Geliştirici Anketi üzerinde kapsamlı betimsel ve çıkarımsal istatistiksel veri analizi (N=20.754).
+* Hipotez Testleri (T-Test, ANOVA) ve Çoklu Doğrusal Regresyon (OLS) kullanılarak "Yapay Zeka Maaşı Artırır" yanılgısının matematiksel olarak çürütülmesi.
+* LaTeX kullanılarak IEEE formatında, iki aşamalı akademik makale yazımı.
 
-**3. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
-- Sosyal ağ analizi için modularity detection algoritması
-- C dilinde implementasyon
-- Olası en iyi topluluk yapılarını ekrana bastırma
+**2. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
+- Sosyal ağ analizi için modularity detection algoritması.
+- C dilinde implementasyon.
+- Olası en iyi topluluk yapılarını hesaplama ve ekrana bastırma.
 
-**4. 📊 [Stack Overflow Anketi Veri Analizi (WIP)](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
-* 2024 Stack Overflow Geliştirici Anketi üzerinde istatistiksel veri analizi.
-* Veri ön işleme, Keşifçi Veri Analizi (EDA) ve istatistiksel görselleştirmeler (Boxplot, Bar, Hist, Pie).
-* LaTeX kullanılarak hazırlanan akademik raporlama.
+**3. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
+- Arduino tabanlı otomatik sulama sistemi.
+- Nem sensörü ile toprak nemini ölçme.
+- Belirlenen seviyenin altına düştüğünde otomatik sulama.
+- [Demoyu İzle](https://youtube.com/shorts/vhjwoos76hg)
+
+**4. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
+- Konsol üzerinde çalışan klasik yılan oyunu.
+- C programlama dili ile geliştirildi.
+- Klavye üzerindeki yön tuşları ile oynanabilir.  
 
 ### 📚 Şu Anda Öğrendiklerim
-- Nesne yönelimli programlama (OOP)
-- Web geliştirme temelleri 
-- Veri analizi
+- Nesne Yönelimli Programlama (OOP)
+- Web Geliştirme Temelleri 
+- Çıkarımsal İstatistik (Inferential Statistics) ve Veri Analizi
 
 ### 🎯 Hedeflerim
 - C++ öğrenmek
@@ -94,4 +98,4 @@ Galatasaray Üniversitesinde, 2. sınıf Bilgisayar Mühendisliği öğrencisiyi
 - **E-posta:** mlhtugrul07@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
 
-⭐ **Profilimi ziyaret ettiğiniz için teşekkür ederim!** 
+⭐ **Profilimi ziyaret ettiğiniz için teşekkür ederim!** ```
