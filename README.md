@@ -7,7 +7,7 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * **Programming Languages:** C, Python, Java
 * **Data Science & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
 * **Tools:** VS Code, Git, GitHub, LaTeX, IntelliJ
-* **Other:** Basic Electronics (Arduino IDE)
+* **Other:** Basic-Mid Electronics (Arduino IDE, Vivado, Verilog)
 
 ### 🚀 Projects
 
@@ -58,7 +58,7 @@ Galatasaray Üniversitesinde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim
 - **Programlama Dilleri:** C, Python, Java
 - **Veri Bilimi ve Kütüphaneler:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
 - **Araçlar:** VS Code, Git, GitHub, LaTeX, IntelliJ
-- **Diğer:** Temel elektronik (Arduino IDE)
+- **Diğer:** Temel-orta elektronik (Arduino IDE, Vivado, Verilog)
 
 ### 🚀 Yaptığım Projeler
 
