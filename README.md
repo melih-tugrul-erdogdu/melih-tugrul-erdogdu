@@ -77,12 +77,12 @@ Galatasaray Üniversitesinde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim
 * Hipotez Testleri (T-Test, ANOVA) ve Çoklu Doğrusal Regresyon (OLS) kullanılarak "Yapay Zeka Maaşı Artırır" yanılgısının matematiksel olarak çürütülmesi.
 * LaTeX kullanılarak IEEE formatında, iki aşamalı akademik makale yazımı.
 
-**2. ⏳ [ChronoRift (Java OOP Oyunu)](https://github.com/melih-tugrul-erdogdu/ChronoRift-OOP-Game)**
+**2. ⏳ [ChronoRift (Java OOP Oyunu)](https://github.com/melih-tugrul-erdogdu/ChronoRift-OOP)**
 * 5 farklı tarihsel bölümden oluşan, zaman yolculuğu temalı RPG (Rol Yapma) oyunu.
 * Java dilinde; Kalıtım, Çok Biçimlilik, Arayüzler ve Özel Hata Yönetimi gibi Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak sıfırdan geliştirildi.
 * Modüler bir mimariyle tasarlanmış olup dinamik savaş döngüsü, envanter ve mağaza yönetim sistemleri içerir.
 
-**3. ⚙️ [Basys 3 FPGA Üzerinde 8-Bit ALU Tasarımı](https://github.com/melih-tugrul-erdogdu/Basys3-8Bit-ALU)**
+**3. ⚙️ [Basys 3 FPGA Üzerinde 8-Bit ALU Tasarımı](https://github.com/melih-tugrul-erdogdu/Basys3-8Bit-ALU-Design)**
 * Verilog kullanılarak Basys 3 FPGA kartı üzerinde 8-bitlik Aritmetik Mantık Birimi (ALU) donanım tasarımı.
 * 256 bayt RAM, 16 adet 8-bitlik yazmaç (register) ve 16 farklı işlem (komut) desteği ile kurgulandı.
 * 7-segment ekranlarda onluk tabanda ve işaretli sayı gösterimi için BCD dönüştürücü entegrasyonu sağlandı.
