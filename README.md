@@ -16,12 +16,12 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * Applied Hypothesis Testing (T-Test, ANOVA) and Multiple Linear Regression (OLS) to demystify the "AI Salary Premium" paradox.
 * Authored a two-part academic paper in IEEE format using LaTeX.
 
-**2. ⏳ [ChronoRift (Java OOP Game)](https://github.com/melih-tugrul-erdogdu/ChronoRift-OOP-Game)**
+**2. ⏳ [ChronoRift (Java OOP Game)](https://github.com/melih-tugrul-erdogdu/ChronoRift-OOP)**
 * A time-travel-themed RPG consisting of 5 distinct historical chapters.
 * Developed entirely in Java utilizing core Object-Oriented Programming principles (Inheritance, Polymorphism, Interfaces, Custom Exception Handling).
 * Features a modular bottom-up architecture, including inventory systems, shop mechanics, and dynamic battle loops.
 
-**3. ⚙️ [8-Bit ALU Design on Basys 3 FPGA](https://github.com/melih-tugrul-erdogdu/Basys3-8Bit-ALU)**
+**3. ⚙️ [8-Bit ALU Design on Basys 3 FPGA](https://github.com/melih-tugrul-erdogdu/Basys3-8Bit-ALU-Design)**
 * Hardware architecture design of an 8-bit Arithmetic Logic Unit (ALU) implemented on a Basys 3 FPGA board using Verilog.
 * Engineered with 256-byte RAM, 16 8-bit registers, and support for 16 distinct computational instructions.
 * Integrates BCD conversion and sign control for displaying decimal outputs on 7-segment displays.
