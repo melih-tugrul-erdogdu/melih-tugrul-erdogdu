@@ -43,12 +43,11 @@ I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am
 * Playable via keyboard arrow keys.
 
 ### 📚 Currently Learning
-* Object-Oriented Programming (OOP)
 * Web Development Fundamentals
 * Inferential Statistics & Data Science
 
 ### 🎯 Goals
-* Learning C++
+* Learning C++ and SQL
 * Building web development projects
 * Contributing actively on GitHub
 * Participating in open-source projects
@@ -104,12 +103,11 @@ Galatasaray Üniversitesinde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim
 - Klavye üzerindeki yön tuşları ile oynanabilir.  
 
 ### 📚 Şu Anda Öğrendiklerim
-- Nesne Yönelimli Programlama (OOP)
 - Web Geliştirme Temelleri 
 - Çıkarımsal İstatistik (Inferential Statistics) ve Veri Analizi
 
 ### 🎯 Hedeflerim
-- C++ öğrenmek
+- C++ ve SQL öğrenmek
 - Web geliştirme projeleri yapmak
 - GitHub'da aktif katkı sağlamak
 - Açık kaynak projelere katılmak
