@@ -13,7 +13,7 @@ I'm a third-year Computer Engineering student at Galatasaray University, current
 
 ### 🚀 Projects
 
-**1. 🚚🗺️ [Field Lead Discovery and Route Integration Engine](https://github.com/melih-tugrul-erdogdu/lead-discovery-route-engine)**
+**1. 🚚🗺️ [Field Lead Discovery and Route Integration Engine](https://github.com/melih-tugrul-erdogdu/lead-discovery-route-engine)** (PRIVATE)
 * An end-to-end lead discovery system for field sales teams: it compares a Google Places scan against a CRM customer base and works out which businesses are genuinely new.
 * Matching engine: name normalization, spatial indexing and a five-layer promotion architecture ordered by quality of evidence, built to resolve the mismatch between a company's tax office title and the name painted on its sign.
 * Route integration: vehicle routing with time windows (VRP) using OR-Tools; leads are slotted into the route a rep already drives, each one costed as a detour in minutes.
@@ -89,7 +89,7 @@ Galatasaray Üniversitesinde 3. sınıf Bilgisayar Mühendisliği öğrencisiyim
 
 ### 🚀 Yaptığım Projeler
 
-**1. 🚚🗺️ [Saha Lead Keşif ve Rota Entegrasyon Motoru](https://github.com/melih-tugrul-erdogdu/lead-discovery-route-engine)**
+**1. 🚚🗺️ [Saha Lead Keşif ve Rota Entegrasyon Motoru](https://github.com/melih-tugrul-erdogdu/lead-discovery-route-engine)** (PRIVATE)
 * Google Places taramasını bir CRM müşteri tabanıyla karşılaştırarak gerçekten yeni olan işletmeleri ayıklayan, saha satış ekipleri için uçtan uca lead keşif sistemi.
 * Eşleştirme motoru: vergi unvanı ile tabela adı arasındaki uyuşmazlığı çözmek için isim normalizasyonu, uzamsal indeksleme ve kanıt kalitesine göre sıralanmış beş katmanlı terfi mimarisi.
 * Rota entegrasyonu: OR-Tools ile zaman pencereli araç rotalama (VRP); lead'ler temsilcinin mevcut günlük rotasına, her biri için dakika cinsinden sapma maliyeti hesaplanarak yerleştiriliyor.
