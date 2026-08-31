@@ -1,79 +1,101 @@
-# 👋 Hello, I'm Melih Tuğrul Erdoğdu (ENG)
+# 👋 Hi, I'm Melih Tuğrul Erdoğdu; (EN)
 
 ### 🎓 About Me
-I am a 2nd-year Computer Engineering student at **Galatasaray University**. I am passionate about software development, algorithm design, and data-driven problem solving.
+I'm a third-year Computer Engineering student at Galatasaray University, currently spending the year at the University of Lille on an Erasmus+ exchange. I'm deeply interested in software development, algorithm design and data-driven problem solving, and I have a strong curiosity about artificial intelligence.
 
-### 💡 Technologies & Skills
-* **Programming Languages:** C, Python, Java
-* **Data Science & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
-* **Tools:** VS Code, Git, GitHub, LaTeX, IntelliJ
-* **Other:** Basic-Mid Electronics (Arduino IDE, Vivado, Verilog)
+### 💡 Technologies I Know
+- **Programming Languages:** C, Python, Java, SQL, HTML
+- **Data Science and Libraries:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
+- **Optimization and Algorithms:** OR-Tools (vehicle routing, constraint programming), spatial indexing, fuzzy text matching (thefuzz / Levenshtein)
+- **Application and Data Layer:** Streamlit, SQLite, openpyxl, Folium, REST API integration (Google Maps Platform — Places, Geocoding, Maps JavaScript, Directions)
+- **Tools:** VS Code, Git, GitHub, LaTeX, IntelliJ
+- **Other:** Basic to intermediate electronics (Arduino IDE, Vivado, Verilog)
 
 ### 🚀 Projects
 
-**1. 
+**1. 🚚🗺️ [Field Lead Discovery and Route Integration Engine](https://github.com/melih-tugrul-erdogdu/lead-discovery-route-engine)**
+* An end-to-end lead discovery system for field sales teams: it compares a Google Places scan against a CRM customer base and works out which businesses are genuinely new.
+* Matching engine: name normalization, spatial indexing and a five-layer promotion architecture ordered by quality of evidence, built to resolve the mismatch between a company's tax office title and the name painted on its sign.
+* Route integration: vehicle routing with time windows (VRP) using OR-Tools; leads are slotted into the route a rep already drives, each one costed as a detour in minutes.
+* Cost architecture: four separate SKUs tracked, tiered query strategy, adaptive subdivision of saturated grid cells, per-run and monthly budget brakes, and checkpoints that resume an interrupted run where it stopped.
+* SQLite state management: opening and closure detection across runs, and a closed loop that feeds field feedback back into the next run.
+* Streamlit panel (8 tabs, live map through the Google Maps JavaScript API), a synthetic sample data generator and bilingual documentation. ~11,800 lines of Python across 17 modules.
 
 **2. 📊 [Stack Overflow Survey Data Analysis](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
-* Comprehensive descriptive and inferential statistical analysis on the 2024 Stack Overflow Developer Survey (N=20,754).
-* Applied Hypothesis Testing (T-Test, ANOVA) and Multiple Linear Regression (OLS) to demystify the "AI Salary Premium" paradox.
-* Authored a two-part academic paper in IEEE format using LaTeX.
+* Comprehensive descriptive and inferential statistical analysis of the 2024 Stack Overflow Developer Survey (N=20,754).
+* Mathematically disproving the "AI raises salaries" assumption using hypothesis testing (t-test, ANOVA) and multiple linear regression (OLS).
+* A two-stage academic paper written in IEEE format using LaTeX.
 
 **3. ⏳ [ChronoRift (Java OOP Game)](https://github.com/melih-tugrul-erdogdu/ChronoRift-OOP)**
-* A time-travel-themed RPG consisting of 5 distinct historical chapters.
-* Developed entirely in Java utilizing core Object-Oriented Programming principles (Inheritance, Polymorphism, Interfaces, Custom Exception Handling).
-* Features a modular bottom-up architecture, including inventory systems, shop mechanics, and dynamic battle loops.
+* A time-travel themed RPG built around five different historical chapters.
+* Written from scratch in Java using object-oriented principles: inheritance, polymorphism, interfaces and custom exception handling.
+* Designed with a modular architecture, including a dynamic combat loop, inventory and shop management systems.
 
 **4. ⚙️ [8-Bit ALU Design on Basys 3 FPGA](https://github.com/melih-tugrul-erdogdu/Basys3-8Bit-ALU-Design)**
-* Hardware architecture design of an 8-bit Arithmetic Logic Unit (ALU) implemented on a Basys 3 FPGA board using Verilog.
-* Engineered with 256-byte RAM, 16 8-bit registers, and support for 16 distinct computational instructions.
-* Integrates BCD conversion and sign control for displaying decimal outputs on 7-segment displays.
+* An 8-bit Arithmetic Logic Unit designed in Verilog for the Basys 3 FPGA board.
+* Built with 256 bytes of RAM, sixteen 8-bit registers and support for 16 different operations.
+* BCD converter integrated for decimal and signed number display on the 7-segment displays.
 
 **5. 🔍 [Modularity Detection on Zachary Karate Club (C)](https://github.com/melih-tugrul-erdogdu/Community-Detection-Algorithms-C)**
-* Modularity detection algorithm for social network analysis.
-* Implemented in C.
-* Calculates and outputs the optimal community structures.
+- A modularity detection algorithm for social network analysis.
+- Implemented in C.
+- Computes and prints the best possible community structures.
 
 **6. 🌱 [Automatic Plant Watering System](https://github.com/melih-tugrul-erdogdu/Arduino-Automatic-Plant-Watering-System)**
-* Arduino-based automated irrigation system.
-* Measures soil moisture using sensors.
-* Automatically waters the plant when moisture drops below a set threshold.
-* [Watch Demo](https://youtube.com/shorts/vhjwoos76hg)
+- An Arduino-based automatic irrigation system.
+- Measures soil moisture with a humidity sensor.
+- Waters the plant automatically when moisture drops below a set level.
+- [Watch the demo](https://youtube.com/shorts/vhjwoos76hg)
 
 **7. 🐍 [Snake Game (C)](https://github.com/melih-tugrul-erdogdu/Snake-Game-C)**
-* Console-based classic Snake game.
-* Developed using C programming language.
-* Playable via keyboard arrow keys.
+- The classic snake game, running in the console.
+- Developed in C.
+- Played with the arrow keys.
 
 ### 📚 Currently Learning
-* Web Development Fundamentals
-* Inferential Statistics & Data Science
+- Web Development
+- Data Analysis
+- Machine Learning
+- Neural Networks
+- Functional Programming (Haskell)
+- Operating Systems
 
 ### 🎯 Goals
-* Learning C++ and SQL
-* Building web development projects
-* Contributing actively on GitHub
-* Participating in open-source projects
+- Learn C++ and become properly fluent in SQL
+- Build web development projects
+- Produce more data science projects
+- Contribute actively on GitHub
+- Take part in open source projects
+- Publish my own projects regularly
 
 ### 📫 Contact
-* **Email:** mlhtugrul07@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
+- **Email:** mlhtugrul07@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/melih-tuğrul-erdoğdu-b222422b0/
 
-⭐ **Thanks for visiting my profile!** ---
+⭐ **Thanks for visiting my profile!**
 
 # 👋 Merhaba, Ben Melih Tuğrul Erdoğdu; (TR)
 
 ### 🎓 Hakkımda
-Galatasaray Üniversitesinde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, algoritma tasarımı ve veriye dayalı problem çözme konularına yoğun ilgi duyuyorum.
+Galatasaray Üniversitesinde 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Şuanda 3. sınıfı Erasmus+ kapsamında Lille Üniversitesinde okuyorum. Yazılım geliştirme, algoritma tasarımı ve veriye dayalı problem çözme konularına yoğun ilgi duyuyorum. Yapay zeka üzerine de derin bir merak besliyorum.
 
 ### 💡 Bildiğim Teknolojiler
-- **Programlama Dilleri:** C, Python, Java, HTML
+- **Programlama Dilleri:** C, Python, Java, SQL, HTML
 - **Veri Bilimi ve Kütüphaneler:** Pandas, NumPy, Matplotlib, Seaborn, statsmodels, SciPy
+- **Optimizasyon ve Algoritma:** OR-Tools (araç rotalama, kısıt programlama), uzamsal indeksleme, bulanık metin eşleştirme (thefuzz / Levenshtein)
+- **Uygulama ve Veri Katmanı:** Streamlit, SQLite, openpyxl, Folium, REST API entegrasyonu (Google Maps Platform — Places, Geocoding, Maps JavaScript, Directions)
 - **Araçlar:** VS Code, Git, GitHub, LaTeX, IntelliJ
 - **Diğer:** Temel-orta elektronik (Arduino IDE, Vivado, Verilog)
 
 ### 🚀 Yaptığım Projeler
 
-**1. 
+**1. 🚚🗺️ [Saha Lead Keşif ve Rota Entegrasyon Motoru](https://github.com/melih-tugrul-erdogdu/lead-discovery-route-engine)**
+* Google Places taramasını bir CRM müşteri tabanıyla karşılaştırarak gerçekten yeni olan işletmeleri ayıklayan, saha satış ekipleri için uçtan uca lead keşif sistemi.
+* Eşleştirme motoru: vergi unvanı ile tabela adı arasındaki uyuşmazlığı çözmek için isim normalizasyonu, uzamsal indeksleme ve kanıt kalitesine göre sıralanmış beş katmanlı terfi mimarisi.
+* Rota entegrasyonu: OR-Tools ile zaman pencereli araç rotalama (VRP); lead'ler temsilcinin mevcut günlük rotasına, her biri için dakika cinsinden sapma maliyeti hesaplanarak yerleştiriliyor.
+* Maliyet mimarisi: dört ayrı SKU takibi, kademeli sorgu stratejisi, doygun ızgara karelerinde uyarlamalı alt bölme, koşu başına ve aylık bütçe frenleri, kesinti hâlinde kaldığı yerden devam eden kurtarma noktaları.
+* SQLite tabanlı durum yönetimi: koşular arası açılış ve kapanış tespiti, sahadan gelen geri bildirimin bir sonraki koşuya beslendiği kapalı döngü.
+* Streamlit paneli (8 sekme, Google Maps JavaScript API ile canlı harita), sentetik örnek veri üreteci ve iki dilli dokümantasyon. ~11.800 satır Python, 17 modül.
 
 **2. 📊 [Stack Overflow Anketi Veri Analizi](https://github.com/melih-tugrul-erdogdu/StackOverflow-Survey-Data-Analysis)**
 * 2024 Stack Overflow Geliştirici Anketi üzerinde kapsamlı betimsel ve çıkarımsal istatistiksel veri analizi (N=20.754).
@@ -115,7 +137,7 @@ Galatasaray Üniversitesinde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim
 - İşletim Sistemleri
 
 ### 🎯 Hedeflerim
-- C++ ve SQL öğrenmek
+- C++ öğrenmek ve SQL'de ustalaşmak
 - Web geliştirme projeleri yapmak
 - Daha çok veri bilimi projesi üretmek
 - GitHub'da aktif katkı sağlamak
